@@ -85,9 +85,7 @@ Welcome to the part which doesn't use our NPM Module
 https://api.vcodes.xyz
 ```
 ## Versions
-| Version   |      Status      |  Default |
-|----------|:-------------:|------:|
-| 1 |  Available | ✔️ |
+Version: 1 - Status: Available - Default: ✔️
     
 
     
