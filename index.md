@@ -87,5 +87,10 @@ https://api.vcodes.xyz
 ## Versions
 Version: 1 - Status: Available - Default: ✔️
     
+# Vote Checking
+Check a users voting status with this endpoint
 
-    
+Method: `POST`
+```
+https://api.vcodes.xyz/v{version_number}/checkVote/:user_id
+```
